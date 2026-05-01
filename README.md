@@ -58,11 +58,11 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer focused on designing cl
 
 <div align="center">
 
-<a href="https://your-portfolio.com">
+<a href="https://https://rohit-portfolio-seven-tau.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/rohit-shinde-219578292">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;

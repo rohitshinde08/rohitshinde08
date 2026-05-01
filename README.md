@@ -43,15 +43,38 @@
 
 ## 👋 Hi there, I'm Rohit
 
-📍 Based in India | Passionate about building scalable and efficient software systems  
+📍 **Based in India | Passionate about building scalable and efficient software systems**  
 
 Welcome to my GitHub profile! I'm a Full-Stack Developer focused on designing clean, reliable, and scalable applications. I enjoy working across both frontend and backend, solving real-world problems with practical and efficient solutions.
 
-- 💻 Currently working with **React, Node.js, and modern web technologies**  
+- 💻 Currently working with **React, Node.js, FastAPI and modern web technologies**  
 - ⚙️ Strong focus on **backend systems, APIs, and performance optimization**  
 - 🤖 Exploring **AI integrations and intelligent application workflows**  
 - 🤝 Open to collaborating on **open-source and impactful projects**  
 - ⚡ Fun Fact: I enjoy automating workflows to improve efficiency and reduce manual effort    
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR-ID">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />

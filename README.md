@@ -1,29 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rohit Shinde</h1>
-<h3 align="center">A passionate full-Stack developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&customColorList=12,20,24&text=Rohit%20Shinde&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Scalable%20Systems%20%7C%20Automation&descSize=16&section=header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitshinde08&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshinde08" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=🚀+Building+scalable+web+apps;⚙️+Designing+backend+systems;🎨+Creating+modern+UI+experiences;🤖+Exploring+AI+integrations" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitshinde08" alt="rohitshinde08" /></a> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Full Stack development, AWS**
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%26%20AI-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LIVES-PUNE,%20INDIA-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LANGUAGES-ENGLISH%20%7C%20HINDI%20%7C%20MARATHI-E67E22?style=for-the-badge" />
 
-- 👨‍💻 All of my projects are available at [github.com/rohitshinde08](github.com/rohitshinde08)
+<br/>
 
-- 📫 How to reach me **rohit.shinde9575@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=rohitshinde08&label=Profile%20Views&color=brightgreen&style=flat-square" />
+<img src="https://img.shields.io/github/followers/rohitshinde08?label=Followers&style=flat-square" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-shinde-219578292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-shinde-219578292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/_rohit_shinde_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit_shinde_84" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rohit_shinde9575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rohit_shinde9575" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohitshinde08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitshinde08" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Statistics
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitshinde08&show_icons=true&locale=en&layout=compact" alt="rohitshinde08" /></p>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohitshinde08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitshinde08&show_icons=true&locale=en" alt="rohitshinde08" /></p>
+<img width="48%" src="https://streak-stats.demolab.com?user=rohitshinde08&theme=tokyonight&hide_border=true" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitshinde08&" alt="rohitshinde08" /></p>
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitshinde08&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohitshinde08&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+
+## 👋 Hi there, I'm Rohit
+
+📍 Based in India | Passionate about building scalable and efficient software systems  
+
+Welcome to my GitHub profile! I'm a Full-Stack Developer focused on designing clean, reliable, and scalable applications. I enjoy working across both frontend and backend, solving real-world problems with practical and efficient solutions.
+
+- 💻 Currently working with **React, Node.js, and modern web technologies**  
+- ⚙️ Strong focus on **backend systems, APIs, and performance optimization**  
+- 🤖 Exploring **AI integrations and intelligent application workflows**  
+- 🤝 Open to collaborating on **open-source and impactful projects**  
+- ⚡ Fun Fact: I enjoy automating workflows to improve efficiency and reduce manual effort    
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+</div>

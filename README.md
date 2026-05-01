@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer focused on designing cl
 
 <div align="center">
 
-<a href="https://https://rohit-portfolio-seven-tau.vercel.app/">
+<a href="https://rohit-portfolio-seven-tau.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;&nbsp;
